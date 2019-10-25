@@ -4,4 +4,5 @@
 int main ()
 {
   st::cout << "Hello, World!";
+  st::cout << "Are you there?";
 }
